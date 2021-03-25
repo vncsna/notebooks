@@ -3,8 +3,9 @@
 - `blog` snippets
     - visibility graph
 - admission `tests`
-    - 21.01.2021
-    - 03.03.2021
+    - 2021.01.21
+    - 2021.03.03
+    - 2021.03.19
 - examples of classic `algorithms`
     - eigenfaces
     - neural network
