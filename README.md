@@ -8,6 +8,6 @@
     - logistic regression
     - multivariate gaussian
     - collaborative filtering
-- `misc`ellaneous tests and hackathons
+- `misc`ellaneous tests and applications
     - by date
     - from interview cake
