@@ -2,7 +2,7 @@
 
 - `blog` snippets
     - visibility graph
-- examples of classic `algorithms`
+- examples of classic `algo`rithms
     - eigenfaces
     - neural network
     - logistic regression
