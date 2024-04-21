@@ -9,7 +9,5 @@
     - multivariate gaussian
     - collaborative filtering
 - `misc`ellaneous tests and hackathons
-    - 2021.01.21
-    - 2021.03.03
-    - 2021.03.19
-    - 2021.04.09
+    - by date
+    - from interview cake
